@@ -76,7 +76,7 @@ A unified, AI-powered ecosystem designed to address the most pressing climate ch
 
 1. **Clone the Repository**  
    ```bash  
-   git clone https://github.com/username/global-climate-nexus-platform.git  
+   git clone https://github.com/ObiwanKenobee/global-climate-nexus-platform.git  
    cd global-climate-nexus-platform  
    ```  
 
